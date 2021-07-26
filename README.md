@@ -1,1 +1,1 @@
-### This repository contains shell script commands.
+### This is shell variable expansion
