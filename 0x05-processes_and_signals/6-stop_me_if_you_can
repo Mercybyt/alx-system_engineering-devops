@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# stop the process of 4-to_infinity_and_beyond.
+
+pstop -f 4-to_infinity_and_beyond
